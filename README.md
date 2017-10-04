@@ -1,6 +1,6 @@
 <h1>QuizBook-Apk-File</h1>
 
-This Repository is made for the purpose to distrbute my Android Project. The QuizBook Android App is an app in which users can play quizzes is 10 different categories with nearly 300 questions in total The salient features of the app are:
+This Repository is made for the purpose to distrbute my Android Project. The BukuQuiz Android App is an app in which users can play quizzes is 10 different categories with nearly 300 questions in total The salient features of the app are:
 
 1.  Login is provide to the user so that only he can access the App.
 2.  Timer for the quiz to make the quizzing more interesting.
